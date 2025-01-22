@@ -1,6 +1,6 @@
 html {
     zoom: 125%;
-  }
+}
 
 .col,.container {
     padding: 0 var(--ifm-spacing-horizontal);
